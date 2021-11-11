@@ -119,8 +119,6 @@ section {
 }
 .section1-left {
     max-width: 540px;
-
-
   }
   
 .section1-left h1 {
@@ -428,7 +426,7 @@ font-size: 16px;
       max-width: 540px;
     }
     .section1 img {
-      right: -20%;
+      right: -22%;
     }
   }
   
